@@ -16,11 +16,11 @@ The system detects human emotions such as *happy, sad, angry, surprised,* and *n
 
 ## 🧠 Features
 
-✅ **Deep Learning Model:** Multi-layer CNN trained on the FER2013 dataset.</n>
-✅ **Real-Time Detection:** Face detection and emotion classification via **OpenCV** with **15–20 FPS** performance.</n>
-✅ **Regularization:** Dropout layers to reduce overfitting and improve generalization.</n>
-✅ **Lighting Optimization:** Adjusted preprocessing pipeline for variable lighting conditions.</n>
-✅ **Evaluation Metrics:** Includes accuracy, confusion matrix, and visualizations using Matplotlib.</n>
+✅ **Deep Learning Model:** Multi-layer CNN trained on the FER2013 dataset.\n
+✅ **Real-Time Detection:** Face detection and emotion classification via **OpenCV** with **15–20 FPS** performance.\n
+✅ **Regularization:** Dropout layers to reduce overfitting and improve generalization.\n
+✅ **Lighting Optimization:** Adjusted preprocessing pipeline for variable lighting conditions.\n
+✅ **Evaluation Metrics:** Includes accuracy, confusion matrix, and visualizations using Matplotlib.\n
 ✅ **Accuracy:** Achieved ~72% accuracy during real-time testing.</n>
 
 ---
